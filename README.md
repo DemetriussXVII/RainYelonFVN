@@ -1,2 +1,2 @@
 # RainYelonFVN
-Creating my first visual novel
+Creating the first visual novel of RainYelon
